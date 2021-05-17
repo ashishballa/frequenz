@@ -53,3 +53,8 @@ regex101  - A site to preview our regex output [link](https://regex101.com/)
 2. To test if user input form is rendered
 3. To test frequency function is working
 4. To test if footer is rendered
+
+## Screenshots
+
+![code](./img/code.png)
+![test](./img/test.png)
