@@ -56,5 +56,11 @@ regex101  - A site to preview our regex output [link](https://regex101.com/)
 
 ## Screenshots
 
-![code](./img/code.png)
-![test](./img/test.png)
+![image](https://user-images.githubusercontent.com/46381162/118435892-7290b780-b6fd-11eb-90a1-9bd42431334e.png)
+![image](https://user-images.githubusercontent.com/46381162/118435959-8c31ff00-b6fd-11eb-956c-20f7d803ec2e.png)
+
+## Deployment
+
+Deployed at [https://agitated-tereshkova-9a5b53.netlify.app/](https://agitated-tereshkova-9a5b53.netlify.app/)
+
+
