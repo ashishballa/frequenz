@@ -33,10 +33,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### React components
 
-NavBar.js - The main navbar of the site
-Footer.js - The main footer of the site
-UserInput.js - Take input from user and passes the data to frequency.js and the result to DataTable.js
-DataTable.js - Displayes the prop data in tabular form
+NavBar.js - The main navbar of the site   
+Footer.js - The main footer of the site   
+UserInput.js - Take input from user and passes the data to frequency.js and the result to DataTable.js   
+DataTable.js - Displayes the prop data in tabular form   
 
 ### Javascript utils
 
@@ -44,8 +44,8 @@ frequency.js - Cauculates the frequency of all words, sorts them and returns the
 
 ## Libraries & Sites
 
-Bulma - A 'css only' framework for basic styles and flexbox
-regex101  - A site to preview our regex output [link](https://regex101.com/)
+Bulma - A 'css only' framework for basic styles and flexbox   
+regex101  - A site to preview our regex output [link](https://regex101.com/)   
 
 ## Tests
 
